@@ -50,5 +50,5 @@ The analysis focuses on **import value, quantity, and unit price**, comparing pe
 
 ## 📬 Author
 Developed by **Hafiz Haroon Irshad**  
-Connect on **https://www.linkedin.com/feed/**  
+Connect on **https://www.linkedin.com/HaroonIrshad**  
 
