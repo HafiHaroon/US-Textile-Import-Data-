@@ -30,7 +30,12 @@ The analysis focuses on **import value, quantity, and unit price**, comparing pe
   - Unit Price by Country (Bar)
   - Total Value by Month (Bar)
   - Value Growth % by Country (Bar)
+ ---
+- **Filter by Pakistan **
+![usimg1](https://github.com/HafiHaroon/US-Textile-Import-Data-/blob/main/usimg1.PNG)
 
+![usimg2](https://github.com/HafiHaroon/US-Textile-Import-Data-/blob/main/usimg2.PNG)
+---
 ## 📈 Key Insights
 - Import value grew from **$27B → $28B** (+3.7%).
 - Import quantity increased from **3B → 4B units** (+33%).
