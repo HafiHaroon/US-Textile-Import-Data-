@@ -15,9 +15,9 @@ The analysis focuses on **import value, quantity, and unit price**, comparing pe
 
 ## 📊 Dashboard Features
 
+![us1](https://github.com/HafiHaroon/US-Textile-Import-Data-/blob/main/us1.PNG)
 
-
-
+![us2](https://github.com/HafiHaroon/US-Textile-Import-Data-/blob/main/us2.PNG)
 - **KPIs:**
   - Total Import Value
   - Total Import Quantity
