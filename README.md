@@ -10,8 +10,25 @@ The analysis focuses on **import value, quantity, and unit price**, comparing pe
 
 ## 🔧 Tools & Skills
 - **Power BI** (Data Modeling, DAX Measures, Dashboard Design)
-- **Excel / Python** (Data preprocessing)
+- **Excel / Python** (Data preprocessing, Data cleaning)
 - **Trade.gov OTEXA Data** (source)
+
+##🌍 Countries Performance Highlights: 
+
+📈 Highest Growth Countries
+Bangladesh – Strong value growth in US textile imports.
+Cambodia – Consistent positive growth with high unit price advantage.
+Vietnam – Solid growth momentum, strong positioning after China.
+
+📉 Countries with Decline
+China – Noticeable decline in value share compared to 2024, impacted by trade shifts.
+Turkey – Negative growth, losing competitiveness in US imports.
+
+💲 Highest Unit Price Countries
+Cambodia – Commands the highest unit prices, showing premium product positioning.
+Bangladesh – Second highest unit price, while also showing strong growth.
+
+
 
 ## 📊 Dashboard Features
 
