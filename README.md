@@ -12,24 +12,7 @@ The analysis focuses on **import value, quantity, and unit price**, comparing pe
 - **Power BI** (Data Modeling, DAX Measures, Dashboard Design)
 - **Excel / Python** (Data preprocessing, Data cleaning)
 - **Trade.gov OTEXA Data** (source)
-
-##🌍 Countries Performance Highlights: 
-
-📈 Highest Growth Countries
-Bangladesh – Strong value growth in US textile imports.
-Cambodia – Consistent positive growth with high unit price advantage.
-Vietnam – Solid growth momentum, strong positioning after China.
-
-📉 Countries with Decline
-China – Noticeable decline in value share compared to 2024, impacted by trade shifts.
-Turkey – Negative growth, losing competitiveness in US imports.
-
-💲 Highest Unit Price Countries
-Cambodia – Commands the highest unit prices, showing premium product positioning.
-Bangladesh – Second highest unit price, while also showing strong growth.
-
-
-
+  
 ## 📊 Dashboard Features
 
 ![us1](https://github.com/HafiHaroon/US-Textile-Import-Data-/blob/main/us1.PNG)
@@ -60,10 +43,20 @@ Bangladesh – Second highest unit price, while also showing strong growth.
 - **Bangladesh, Cambodia, and Vietnam** showed strong growth.
 - **China’s imports declined slightly**, signaling sourcing shifts.
 
-## 🚀 How to Use
-1. Download the `.pbix` file from this repo.
-2. Open in **Power BI Desktop**.
-3. Explore dashboards with filters (Country, Month).
+## 🌍 Countries Performance Highlights: 
+
+# 📈 Highest Growth Countries
+Bangladesh – Strong value growth in US textile imports.
+Cambodia – Consistent positive growth with high unit price advantage.
+Vietnam – Solid growth momentum, strong positioning after China.
+
+# 📉 Countries with Decline
+China – Noticeable decline in value share compared to 2024, impacted by trade shifts.
+Turkey – Negative growth, losing competitiveness in US imports.
+
+# 💲 Highest Unit Price Countries
+Cambodia – Commands the highest unit prices, showing premium product positioning.
+Bangladesh – Second highest unit price, while also showing strong growth. 
 
 ## 📬 Author
 Developed by **Hafiz Haroon Irshad**  
